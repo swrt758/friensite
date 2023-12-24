@@ -1,1 +1,1 @@
-# friensite
+(its a joke website)
