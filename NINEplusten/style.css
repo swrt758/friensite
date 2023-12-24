@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "omor";
+    src: url("OMORI_GAME2.ttf");
+}
+
+body{
+    font-family: "omor";
+    background-image: url('back.png');
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.test{
+    margin-top: 100px;
+    margin-bottom: -200px;
+}
+
+.test:hover{
+    transition: all .9s ease-in-out;
+    transform: rotateZ(360deg);
+}
+
+.up{
+    margin-top: 340px;
+    margin-left: -55%;
+}
+
+.down{
+    margin-left: -55%;
+}

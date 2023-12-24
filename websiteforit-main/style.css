@@ -1,0 +1,53 @@
+@font-face {
+    font-family: omor;
+    src: url(OMORI_GAME2.ttf);
+}
+
+body {
+    background-color: rgb(99, 113, 179);
+    background-image: url(snow.gif);
+    font-family: "omor";
+}
+
+.storyo {
+    text-align: right;
+    font-size: 70px;
+    margin: 0;
+}
+
+.storyt {
+    text-align: left;
+    font-size: 70px;
+    margin: 0;
+}
+
+.frienso {
+    padding-left: 40%;
+}
+
+.texto {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 400px;
+    font-size: 40px;
+}
+
+.frienst {
+    margin-left: 10px;
+}
+
+.textt {
+    padding-left: 120px;
+    margin: 0;
+    padding-bottom: 400px;
+}
+
+.friensf {
+    padding-left: 78%;
+}
+
+.textf {
+    text-align: right;
+    padding-right: 120px;
+    margin: 0;
+}

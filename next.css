@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "omor";
+    src: url("OMORI_GAME2.ttf");
+}
+
+body{
+    font-family: "omor";
+    background-color: black;
+}
+
+img{
+    padding-left: 400px;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+}

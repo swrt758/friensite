@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "omor";
+    src: url("OMORI_GAME2.ttf");
+}
+
+body{
+    font-family: "omor";
+}
+
+.welcm{
+    text-align: center;
+}
+
+.real{
+    font-size: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.welike{
+    padding-left: 500px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 60px;
+}
+
+.frns{
+    padding-top: 40vh;
+}
+
+.pioc{
+    text-align: right;
+    padding-top: 40vh;
+}
+
+.pico{
+    font-size: 60px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    padding-right: 300px;
+}
+
+div a{
+    font-size: 40px;
+    text-align: center;
+    padding-left: 800px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
+
+.smol{
+    width: 50px;
+    height: 50px;
+    color: black;
+}
+
+.smol:visited{
+    color: black;
+}
